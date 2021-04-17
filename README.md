@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Pedro5722 :pt-BR:
+- 👋 Hi, I’m @Pedro5722 
+:brazil:
 - 👀 I’m interested in Fullstack and web development
 - 🌱 I’m currently learning Java and Python
 - 📫 How to reach me: send me a email on pedroalbuquerquearaujo@gmail.com
